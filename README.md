@@ -1,4 +1,4 @@
-https://github.com/Mmabiaa/ArtPad/blob/main/Art/art.png
+
 
 # ArtPad 🎨
 
