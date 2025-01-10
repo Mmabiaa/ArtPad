@@ -1,4 +1,3 @@
-
 # ArtPad 🎨
 
 ![ArtPad Banner](https://github.com/Mmabiaa/ArtPad/blob/main/Art/art.png)
@@ -76,13 +75,3 @@ Share your creations with us on social media using the hashtag **#ArtPadApp**!
 ---
 
 Thank you for choosing ArtPad! Unleash your creativity and enjoy drawing!
-
-
-
-   
-
-
-
-
-
-   
