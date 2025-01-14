@@ -26,10 +26,10 @@ Getting started with ArtPad is a breeze! Follow these steps:
    cd artpad
 
 2. **Install the required packages:**
-     pip install -r requirements.txt
+     `pip install -r requirements.txt`
 
 3. **Run the application:**
-    python app.py
+   `python app.py`
 
 
 ---
